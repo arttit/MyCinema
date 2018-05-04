@@ -19,3 +19,7 @@ Il peut aussi modifier les informations de celui-ci, modifier son vote et suppri
 Une page d'accueil est au fur et à mesure améliorée en proposant quatres films adaptés à l'historique de visionnage de l'utilisateur.
 
 Si un film ou un genre n'est pas proposé sur le site, l'utilisateur peut le créer. Il faudra alors renseigner un nombre d'informations minimum pour que le film soit ajouté. 
+
+![Home](https://github.com/arttit/MyCinema/blob/master/home.png)
+
+![Film](https://github.com/arttit/MyCinema/blob/master/film.png)
